@@ -152,7 +152,7 @@ public class ArbolBinario {
 		return false;
 	}
 	
-	public void eliminar() {
+	/*public void eliminar() {
 		NodoArbol aux = nodoRaiz;
 		NodoArbol anterior = null;
 		if (aux.getNodoIzq()==null && aux.getNodoDer()==null) {
@@ -165,7 +165,7 @@ public class ArbolBinario {
 		}
 		
 	}
-	
+	*/
 	
 	
 	
